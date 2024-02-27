@@ -22,8 +22,8 @@ By the end of this course, you will be able to:
 - Evaluate various project management tools to meet project needs.
 
 
-[Here](https://www.coursera.org/account/accomplishments/verify/WEL8AUCN7ABG) is my certification for this first course.
-![](imgs/course1.JPG)
+[Here](https://www.coursera.org/account/accomplishments/verify/FPAJPEMFGNPJ) is my certification for this first course.
+![](imgs/course.png)
 
 
 ## Certification Overview
