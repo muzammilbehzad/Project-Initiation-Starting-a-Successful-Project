@@ -2,7 +2,7 @@
 The knowledge base contanis a specialization overview from the course [Project Initiation: Starting a Successful Project](https://www.coursera.org/learn/project-initiation-google?specialization=google-project-management) by Google on [Coursera](https://www.coursera.org/). It is divided into following modules:
 - [Fundamentals of project initiation](./Fundamentals%20of%20project%20initiation.md)
 - [Defining project goals, scope, and success criteria](./Defining%20project%20goals,%20scope,%20and%20success%20criteria.md)
-- [Working effectively with stakeholders]()
+- [Working effectively with stakeholders](./Working%20effectively%20with%20stakeholders.md)
 - [Utilizing resources and tools for project success]()
 
 This is the second course in the Google Project Management Certificate program. This course will show you how to set a project up for success in the first phase of the project life cycle: the project initiation phase. In exploring the key components of this phase, you’ll learn how to define and manage project goals, deliverables, scope, and success criteria. You’ll discover how to use tools and templates like stakeholder analysis grids and project charters to help you set project expectations and communicate roles and responsibilities.
