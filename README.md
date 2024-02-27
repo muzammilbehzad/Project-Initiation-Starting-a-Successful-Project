@@ -1,7 +1,7 @@
 # Project Initiation: Starting a Successful Project
 The knowledge base contanis a specialization overview from the course [Project Initiation: Starting a Successful Project](https://www.coursera.org/learn/project-initiation-google?specialization=google-project-management) by Google on [Coursera](https://www.coursera.org/). It is divided into following modules:
 - [Fundamentals of project initiation](./Fundamentals%20of%20project%20initiation.md)
-- [Defining project goals, scope, and success criteria]()
+- [Defining project goals, scope, and success criteria](./Defining%20project%20goals,%20scope,%20and%20success%20criteria.md)
 - [Working effectively with stakeholders]()
 - [Utilizing resources and tools for project success]()
 
